@@ -1,0 +1,22 @@
+[
+  {
+    "id": "task-test-user1-a",
+    "userId": "user-1",
+    "title": "Almuerzo Criollo",
+    "meal": "Ají de Gallina",
+    "time": "13:00",
+    "status": "pendiente",
+    "createdAt": "2026-09-18T02:26:06.923Z",
+    "updatedAt": "2026-09-18T02:26:06.923Z"
+  },
+  {
+    "id": "task-test-user2-b",
+    "userId": "user-2",
+    "title": "Cena Marina",
+    "meal": "Tiradito al Ají Amarillo",
+    "time": "20:30",
+    "status": "pendiente",
+    "createdAt": "2026-09-18T02:26:06.923Z",
+    "updatedAt": "2026-09-18T02:26:06.923Z"
+  }
+]

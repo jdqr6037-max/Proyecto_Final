@@ -1,0 +1,6 @@
+{
+  "name": "Food Now - Delivery Gastronómico",
+  "description": "Aplicación integral de entrega de comida a domicilio con mapa en vivo, barra horizontal superior, planificador de comidas asistido por IA según preferencias y gráficos interactivos con Recharts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
